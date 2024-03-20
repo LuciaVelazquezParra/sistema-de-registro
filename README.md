@@ -2,3 +2,5 @@
 Estado del proyecto: En construcción
 Para ejecutar el sistema debes poner 
 ''rmp install react''
+sistema de registro 2 
+
